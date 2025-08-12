@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.cxfKafka",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://example.com"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://example.com"
+			}
+		]
+	}
+}
